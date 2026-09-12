@@ -1,6 +1,6 @@
-# ¡Hola mundo! Soy Elena ✨ 👩‍💻
+# ¡Hola mundo! Soy Elena ✨ 👩‍💻 ⋆.𐙚 ̊
 
-¡Bienvenida/o a mi perfil de GitHub! Soy estudiante de **5to semestre de Ingeniería en Sistemas**. Me apasiona el backend, el desarrollo web y el hardware, siempre buscando el equilibrio perfecto entre la lógica del código y la estética del diseño. 
+¡Bienvenida/o a mi perfil de GitHub! Soy estudiante de **5to semestre de Ingeniería en Sistemas**. Me apasiona el backend, el desarrollo web y el hardware, siempre buscando el equilibrio perfecto entre la lógica del código y la estética del diseño 𓍢ִ໋🌷͙֒
 
 🌸 **Profesional por fuera, *girly* por dentro.** Cuando no estoy optimizando queries, me encanta vestir a la moda, experimentar con ropa y llenar mi entorno del color rosa. 
 
@@ -14,14 +14,14 @@
 
 ---
 
-### 🚀 Mis Áreas de Enfoque
+### 🚀 Mis Áreas de Enfoque .𖥔 ݁ ˖🛸── .✦
 * 🗄️ **Database Architect:** Me encanta diseñar y optimizar Database Schemas. Tengo experiencia práctica con **MySQL** y **PostgreSQL**.
 * ⚡ **Hardware & Circuitos:** Apasionada de la electrónica. Me encanta elaborar circuitos, entender el funcionamiento interno de los componentes y el ensamblaje de hardware.
 * 🎨 **Software Customization & Web:** No solo creo páginas web, me fascina diseñar, tunear y personalizar la experiencia del software para que sea tan visualmente atractiva como funcional.
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Tech Stack & Herramientas ⋆.˚🦋༘⋆
 
 * **Lenguajes de Programación:** 
   * `C++` 🟦
@@ -34,5 +34,5 @@
 ### ALSO 🌷˚˖𓍢ִ໋❀˚
 ¡Siempre dispuesta a colaborar en proyectos de hardware, desarrollo web o bases de datos!
 
-*“El código no tiene por qué ser aburrido, puede ser potente y verse bonito!.”* 🧠💕
+*“El código no tiene por qué ser aburrido, puede ser potente y verse bonito!.”* 💕 /ᐠ > ˕ <マ ₊˚⊹♡
 
